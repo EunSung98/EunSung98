@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-SNS <br>
--  <a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a>
- 
-Skill
+## SNS 
+<a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a>
+<a href="https://github.com/EunSung98" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=&logoColor=white"/></a>
+
+## Skill
 
 <!--
 **EunSung98/EunSung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
