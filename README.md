@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 SNS <br>
-<a href="https://github.com/EunSung98" target="_blank"><img src="https://img.shields.io/badge/white?style=flat-square&logo=tstory&logoColor=white"/>blog</a>
+-  <a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-white?style=flat-square&logo=&logoColor=white"/></a>
  
 Skill
 
