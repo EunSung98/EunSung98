@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ## SNS 
-<a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a>
-<a href="https://github.com/EunSung98" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=&logoColor=white"/></a>
+개발 블로그 : <a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a><br>
+Github : <a href="https://github.com/EunSung98" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=&logoColor=white"/></a><br>
 
 ## Skill
 
