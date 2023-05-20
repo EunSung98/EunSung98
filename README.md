@@ -13,9 +13,11 @@ Github : <a href="https://github.com/EunSung98" target="_blank"><img src="https:
 ![](https://img.shields.io/badge/-cplusplus-00599C?style=flat&logo=c++logoColor=white)
 ![](https://img.shields.io/badge/-arduino-00979D?style=flat&logo=arduinot&logoColor=white)
 ![](https://img.shields.io/badge/-firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 <br>
 살짝 아는 것 : 
 ![](https://img.shields.io/badge/-androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![](https://img.shields.io/badge/-raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![](https://img.shields.io/badge/-spring-6DB33F?style=flat&logo=spring&logoColor=white)
-
+![](https://img.shields.io/badge/-vuedotjs-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-react-61DAFB?style=flat&logo=react&logoColor=white)
