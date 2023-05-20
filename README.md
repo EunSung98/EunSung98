@@ -1,22 +1,21 @@
-# Hi there 👋
+# 포기하지 않는 개발자 꿈나무!
 
 ## SNS 
 개발 블로그 : <a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a><br>
 Github : <a href="https://github.com/EunSung98" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=&logoColor=white"/></a><br>
 
-## Skill
+## stack
 
-<!--
-**EunSung98/EunSung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-css3-1572B6?style=flat&logo=css3t&logoColor=white)
+<br>
+![](https://img.shields.io/badge/-cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/-arduino-00979D?style=flat&logo=arduinot&logoColor=white)
+![](https://img.shields.io/badge/-firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+<br>
+살짝 아는 것 : 
+![](https://img.shields.io/badge/-androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/-raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![](https://img.shields.io/badge/-spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
