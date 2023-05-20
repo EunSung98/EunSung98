@@ -15,10 +15,4 @@ Github : <a href="https://github.com/EunSung98" target="_blank"><img src="https:
 ![](https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-css-1572B6?style=flat&logo=css3&logoColor=white)
-<br>
-살짝 아는 것 : 
-![](https://img.shields.io/badge/-androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![](https://img.shields.io/badge/-raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![](https://img.shields.io/badge/-spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/-vuedotjs-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/-react-61DAFB?style=flat&logo=react&logoColor=white)
+
