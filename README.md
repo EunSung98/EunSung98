@@ -10,7 +10,7 @@ Github : <a href="https://github.com/EunSung98" target="_blank"><img src="https:
 ![](https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-css3-1572B6?style=flat&logo=csst&logoColor=white)
 <br>
-![](https://img.shields.io/badge/-cplusplus-00599C?style=flat&logo=c++logoColor=white)
+![](https://img.shields.io/badge/-c++-00599C?style=flat&logo=cpluspluslogoColor=white)
 ![](https://img.shields.io/badge/-arduino-00979D?style=flat&logo=arduinot&logoColor=white)
 ![](https://img.shields.io/badge/-firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)
