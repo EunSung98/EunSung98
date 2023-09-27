@@ -1,7 +1,7 @@
-# 포기하지 않는 개발자 꿈나무!
+## Backend devloper / Cloud engineer 를 지망하고 있는 대학생, 장성은입니다!
 
 ## SNS 
-개발 블로그 : <a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a><br>
+블로그 Blog : <a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a><br>
 Github : <a href="https://github.com/EunSung98" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=&logoColor=white"/></a><br>
 
 ## stack
