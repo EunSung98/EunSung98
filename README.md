@@ -42,20 +42,24 @@ Collaboration
 1 - 하나도 안 궁금한 코시국 테스트 [심리테스트 사이트]
 - 2022-01 ~ 2022-08
 - 팀 프로젝트
+- ![](https://github.com/EunSung98/covidPersonalityTes)
 
 2 - 고슴도치 스마트 케이지
 - 2022-04 ~ 2022-12
 - 이브와 공모전 동상 수상
 - 4차산업혁명 인재양성 공유협업 페스티발 장려상
+- ![](https://github.com/EunSung98/hedgeHouse)
 
 3 - 직원 근태 관리 시스템
 - 2023-01 ~ 2023-02
 - 일본 IT 회사 현장학습
 - 팀 프로젝트
+- ![](https://github.com/EunSung98/fosFieldTrip)
 
 4 -마음대로 쓰는 나만의 독서록 '감상일기’
 - 2023-05 ~ 2023-06
 - 개인 프로젝트
+- ![](https://github.com/EunSung98/readMemo)
 
 5 - 시각장애인을 위한 스마트 카트
 - 2023-02 ~ 2023-12
