@@ -8,7 +8,7 @@
 ## SNS 
 블로그 Blog : <a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a><br>
 Github : <a href="https://github.com/EunSung98" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=&logoColor=white"/></a><br>
-포트폴리오 : [Uploading 장성은_포트폴리오.pdf…]()
+포트폴리오 : [[Uploading 장성은_포트폴리오.pdf…]()](https://drive.google.com/file/d/1o93VhHn1Cik_bPgYD_37NyAvKIrrnqmc/view?usp=sharing)
 
 ## stack
 Language
