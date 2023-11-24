@@ -21,7 +21,7 @@ Backend
 - Java : Spring, Spring boot, JSP
 
 Database
-- MySQL![](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white
+- MySQL![](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 - MongoDB
 - firebase
 
