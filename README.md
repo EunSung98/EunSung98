@@ -88,5 +88,6 @@
 
 
 ## SNS 
-블로그 Blog : <a href="https://jangmay.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=&logoColor=white"/></a><br>
-Github : <a href="https://github.com/EunSung98" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=&logoColor=white"/></a><br>
+블로그 Blog : <a href="https://jangmay.tistory.com/" target="_blank">블로그 보러 가기</a><br>
+LinkedIn : <a href="https://www.linkedin.com/in/%EC%84%B1%EC%9D%80-%EC%9E%A5-066815251/" target="_blank">링크드인으로 가기</a><br>
+
