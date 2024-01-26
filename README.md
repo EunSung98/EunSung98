@@ -57,7 +57,7 @@
   
 - [상세내용](https://github.com/EunSung98/fosFieldTrip)
 
-4 -마음대로 쓰는 나만의 독서록 '감상일기’
+### 4 -마음대로 쓰는 나만의 독서록 '감상일기’
 - 과제로 만든 독서 기록 웹사이트
 - 기간 : 2023-05 ~ 2023-06 (약 1달)
 - 개인 프로젝트
@@ -71,7 +71,7 @@
 
 - [상세내용](https://github.com/EunSung98/readMemo)
 
-5 - 시각장애인을 위한 스마트 카트
+### 5 - 시각장애인을 위한 스마트 카트
 - 시각장애인의 오프라인 쇼핑을 돕는 스마트 카트
 - 기간 : 2023-02 ~ 2023-12
 - 캡스톤 팀 프로젝트
@@ -81,7 +81,7 @@
 |Development|Android Studio, Arduino IDE|Server|Firebase, node-red|
 |Communication|MQTT : mosquitto <br> (전: AWS iot)|Equipments|UWB|
 
-<성과>
+< 성과 >
 - 이브와 ICT 멘토링 참여
 - 4차산업혁명 인재양성 공유협업 페스티발 장려상
 - 교내 창업 아이디어 대회 최우수상 수상
