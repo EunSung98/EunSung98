@@ -28,7 +28,7 @@
 |Server|netlify (무료 웹 호스팅)|
 |Ad api|kakao adfit|
 
-- ![상세내용](https://github.com/EunSung98/covidPersonalityTes)
+- [상세내용](https://github.com/EunSung98/covidPersonalityTes)
 
 ### 2 - 고슴도치 스마트 케이지
 - 고슴도치가 맞는 환경을 구성하고 보호자를 위한 스마트 케이지 (IoT)
@@ -42,7 +42,7 @@
 |Development|Android Studio,<br> Arduino IDE|
 |Server|netlify (무료 웹 호스팅)|
 
-- ![상세내용](https://github.com/EunSung98/hedgeHouse)
+- [상세내용](https://github.com/EunSung98/hedgeHouse)
 
 ### 3 - 직원 근태 관리 시스템
 - 일본 IT 회사 현장학습으로 제작된 직원의 근태 정보 관리 웹사이트
@@ -55,7 +55,7 @@
 |Server|apache tomcat|
 |Database|MySQL, HeidiSQL |
   
-- ![상세내용](https://github.com/EunSung98/fosFieldTrip)
+- [상세내용](https://github.com/EunSung98/fosFieldTrip)
 
 4 -마음대로 쓰는 나만의 독서록 '감상일기’
 - 과제로 만든 독서 기록 웹사이트
@@ -69,7 +69,7 @@
 |Database|MySQL, HeidiSQL|
 |framework|bootstrap|
 
-- ![상세내용](https://github.com/EunSung98/readMemo)
+- [상세내용](https://github.com/EunSung98/readMemo)
 
 5 - 시각장애인을 위한 스마트 카트
 - 시각장애인의 오프라인 쇼핑을 돕는 스마트 카트
