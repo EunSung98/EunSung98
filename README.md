@@ -6,7 +6,7 @@
 - 사회와 회사에 좋은 영향을 주고 싶습니다.
 
 
-### 포트폴리오 : ![보러가기]([https://github.com/EunSung98/covidPersonalityTes](https://drive.google.com/file/d/1o93VhHn1Cik_bPgYD_37NyAvKIrrnqmc/view?usp=sharing))
+### 포트폴리오 : ![보러가기]([https://github.com/EunSung98/covidPersonalityTes](https://drive.google.com/file/d/1o93VhHn1Cik_bPgYD_37NyAvKIrrnqmc/view?usp=sharing](https://drive.google.com/file/d/1o93VhHn1Cik_bPgYD_37NyAvKIrrnqmc/view?usp=drive_link)))
 
 ## stack
 
