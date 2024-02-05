@@ -86,6 +86,20 @@
 - 4차산업혁명 인재양성 공유협업 페스티발 장려상
 - 교내 창업 아이디어 대회 최우수상 수상
 
+### 5 - 눈물의 자소서
+- 과제로 만든 자기소개서 정리 사이트
+- 기간 : 2023.11 ~ 2023.12.13 (약 1달)
+- 개인 프로젝트
+
+|Backend|Spring (Java 1.8), Jsp|
+|:-------:|:--------------:|
+|Fronted|Boostrap (html, css, js)|
+|Database|MySQL, HeidiSQL|
+|development|STS|
+|Server|apache tomcat|
+
+- [상세내용](https://github.com/EunSung98/coverlettershelf)
+
 
 ## SNS 
 블로그 Blog : <a href="https://jangmay.tistory.com/" target="_blank">블로그 보러 가기</a><br>
